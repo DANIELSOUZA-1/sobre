@@ -1,3 +1,3 @@
 # Daniel Antônio
 
-Este é um repositório de exemplo para o workshop de git do Cesar School mostrando uma página de sobre
+Sou aluno do primeiro período de Ciências da Computação
